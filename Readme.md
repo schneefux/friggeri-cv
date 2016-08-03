@@ -1,6 +1,7 @@
 # About
 A new A4 version of the famous Friggeri CV. My much simpler version now works without external font files, with regular (pdf)latex and without biber.
 
+Based on [eklenske/CV](https://github.com/eklenske/CV) and [depressiveRobot/friggeri-cv-a4](https://github.com/depressiveRobot/friggeri-cv-a4).
 
 # License
 
