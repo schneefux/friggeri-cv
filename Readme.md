@@ -1,9 +1,10 @@
 # About
-A new version of the famous Friggeri CV. My much simpler version now works without external font files, with regular (pdf)latex and without biber.
+A new A4 version of the famous Friggeri CV. My much simpler version now works without external font files, with regular (pdf)latex and without biber.
 
 
 # License
 
+Copyright (C) 2016, schneefux
 Copyright (C) 2015, Edgar Klenske  
 Copyright (C) 2014, Jelmer Tiete  
 Copyright (C) 2012, Adrien Friggeri
